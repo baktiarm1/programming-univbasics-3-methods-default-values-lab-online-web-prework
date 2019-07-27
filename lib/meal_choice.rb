@@ -8,5 +8,5 @@ def meal_choice (veg1, veg2, protein='meat')
    
  
 end
-meal_choice ('a','b') 
+
 p meal_choice('Beets','Hagu')
